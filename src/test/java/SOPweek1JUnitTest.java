@@ -19,6 +19,7 @@ public class SOPweek1JUnitTest {
     
     public SOPweek1JUnitTest() {
         // Test class
+        // Test 2
     }
     
     @BeforeClass
