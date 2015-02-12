@@ -23,6 +23,7 @@ public class SOPweek1JUnitTest {
     
     @BeforeClass
     public static void setUpClass() {
+        // Set up for tests goes here
     }
     
     @AfterClass
