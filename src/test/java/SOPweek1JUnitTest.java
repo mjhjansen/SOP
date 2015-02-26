@@ -20,10 +20,13 @@ public class SOPweek1JUnitTest {
     public SOPweek1JUnitTest() {
         // Test class
         // testet
+        
+        // Hello World
     }
     
     @BeforeClass
     public static void setUpClass() {
+        // Set up for tests goes here
     }
     
     @AfterClass
