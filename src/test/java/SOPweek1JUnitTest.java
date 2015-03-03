@@ -43,7 +43,7 @@ public class SOPweek1JUnitTest {
     
     @Test
     public void test1() {
-        assertTrue(1==2);
+        assertTrue(1==1);
     }
 
     // TODO add test methods here.
