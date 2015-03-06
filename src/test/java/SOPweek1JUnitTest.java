@@ -39,6 +39,11 @@ public class SOPweek1JUnitTest {
     @After
     public void tearDown() {
     }
+    
+    @Test
+    public void aFailingTest() {
+        assertTrue(1==2);
+    }
 
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
