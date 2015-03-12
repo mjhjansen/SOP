@@ -42,7 +42,7 @@ public class SOPweek1JUnitTest {
     
     @Test
     public void aFailingTest() {
-        assertTrue(1==1);//bgeabebgfijfgkileajiljgjielfaeigleigljijigljfieafjiaefjifkef;akef
+        assertTrue(1==2);//bgeabebgfijfgkileajiljgjielfaeigleigljijigljfieafjiaefjifkef;akef
     }
 
     // TODO add test methods here.
